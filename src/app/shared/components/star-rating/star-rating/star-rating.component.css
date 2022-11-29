@@ -1,0 +1,14 @@
+.star-container {
+    overflow: hidden;
+    cursor: pointer;
+}
+
+span {
+    width: 25px;
+    color: gold;
+}
+
+.start-wrapper {
+    width: 125px;
+    cursor: pointer;
+}
